@@ -2,7 +2,7 @@
 <p align="center">A Dual Cored Micro-controller which can flash two different firmware in one board.</p>
 
 <p align="center">
-  <img src="Images/uno_pcb.png" width="500">
+  <img src="Images/pcb.png" width="500">
 </p>
 
 <img align="center" src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=electronicarts&logoColor=white">
