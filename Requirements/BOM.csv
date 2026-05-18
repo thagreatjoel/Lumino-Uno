@@ -1,0 +1,31 @@
+LUMINO UNO,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created：17/05/26 20:06:54,,,,BOM Export Date: 17/05/26 20:07:27,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
+All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
+,,,,,,,,,,"EST TOTAL :$14.98
+",,,,Website：https://www.lcsc.com/bom,,,,,,,,,,,
+Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
+LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(USD),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
+C14663,YAGEO(国巨),CC0603KRX7R9BB104,,C0603,,-,10,,,CC0603KRX7R9BB104,YAGEO,100,0.0014,0.14,C14663,-,100,100,4000,3312000,In Stock,,100nF ±10% 50V Ceramic Capacitor X7R 0603,Exact Matches,
+C19702,SAMSUNG(三星),CL10A106KP8NNNC,,C0603,,-,3,,,CL10A106KP8NNNC,Samsung Electro-Mechanics,50,0.0060,0.30,C19702,-,50,50,4000,0,Backordered,,10uF ±10% 10V Ceramic Capacitor X5R 0603,Exact Matches,
+C376875,CCTC(三环),TCC0805COG220J500BT,,C0805,,-,2,,,TCC0805COG220J500BT,CCTC,100,0.0023,0.23,C376875,-,100,100,4000,122400,In Stock,,22pF ±5% 50V Ceramic Capacitor C0G 0805,Exact Matches,
+C49101620,HCTL(华灿天禄),TC-S3601-3.5-260G-F0.6,,SW-SMD_TC-S3601-3.5-260G-F0.6,,-,3,,,TC-S3601-3.5-260G-F0.6,HCTL,50,0.0136,0.68,C49101620,-,50,50,2000,138350,In Stock,,12V With Bracket 7mm Rectangular Button No 3.5mm SPST 50mA SMD Tactile Switches RoHS,Exact Matches,
+C82899,ESPRESSIF(乐鑫),ESP32-WROOM-32-N4,,WIFIM-SMD_ESP32-WROOM-32-N4,,-,1,,,ESP32-WROOM-32-N4,ESPRESSIF,1,3.0137,3.01,C82899,-,1,1,550,11399,In Stock,,"2.4GHz ESP32-DOWDQ6 -98dBm SMD,25.5x18mm RF Transceiver Modules and Modems RoHS",Exact Matches,
+C6510,MICROCHIP(美国微芯),ATMEGA128A-AU,,LQFP-64_L14.0-W14.0-P0.80-LS16.0-BL,,-,1,,,ATMEGA128A-AU,MICROCHIP,1,3.7463,3.75,C6510,-,1,1,90,6034,In Stock,,AVR 8 Bit 16MHz 53 TQFP-64(14x14) Microcontrollers RoHS,Exact Matches,
+C84681,WCH(南京沁恒),CH340C,,SOP-16_L10.0-W3.9-P1.27-LS6.0-BL,,-,1,,,CH340C,WCH,1,0.4394,0.44,C84681,-,1,1,50,101140,In Stock,,Transceiver 2Mbps USB 2.0 SOP-16 Interface Controllers RoHS,Exact Matches,
+C22458961,ALJ(龙晶微),AMS1117-3.3,,SOT-223_L6.5-W3.5-P2.30-LS7.0-BR,,-,1,,,AMS1117-3.3,ALJ,0,-,-,C22458961,SOT-223,10,10,2500,0,discountinued,,Linear Voltage Regulator IC Fixed 1A SOT-223,Exact Matches,https://www.lcsc.com/product-detail/C22458961.html
+C19273151,YONGYUTAI(永裕泰),YLED0603G,,LED0603-FD,,-,2,,,YLED0603G,YONGYUTAI,100,0.0030,0.30,C19273151,-,100,100,4000,101800,In Stock,,Emerald Green LED Indication - Discrete 2.7V~3.2V 0603,Exact Matches,
+C2927038,DEALON(德艺隆),USB-TYPE-C-018,,USB-C_SMD-TYPE-C-31-M-12,,-,1,,,USB-TYPE-C-018,DEALON,10,0.0517,0.52,C2927038,-,10,10,1500,104690,In Stock,,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",Exact Matches,
+C295103,TAITIEN(泰艺电子),OCETDLJANF-16MHZ,,OSC-SMD_4P-L7.0-W5.0-BL,,-,1,,,OCETDLJANF-16MHZ,TAITIEN Elec,1,0.4220,0.42,C295103,-,1,1,1000,1213,In Stock,,Oscillator 16MHz 3.3V SMD7050-4P,Exact Matches,
+C98220,YAGEO(国巨),RC0603FR-0710KL,,R0603_NEW,,-,7,,,RC0603FR-0710KL,YAGEO,100,0.0007,0.07,C98220,-,100,100,5000,0,Backordered,,100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,
+C2907044,FOJAN(富捷),FRC0603F5101TS,,R0603_NEW,,-,2,,,FRC0603F5101TS,FOJAN,100,0.0005,0.05,C2907044,-,100,100,5000,7867500,In Stock,,5.1kΩ ±1% 100mW 0603 Thick Film Resistor,Exact Matches,
+C19190512,Yxcon(宇熙精密),P125-1220A0BS116A1,,HDR-TH_40P-P2.54-V-M-R2-C20-S2.54_10-97-7406,,-,1,,,P125-1220A0BS116A1,Yxcon,5,0.2373,1.19,C19190512,-,5,5,100,26095,In Stock,,Pin Header 40 Position 2.54mm Pitch Dual Row Through Hole -40℃~+105℃,Exact Matches,
+C2837066,G-Switch(品赞),MS-22C01-G010,,SW-SMD_6P-L7.2-W3.5-P2.50-LS6.0-TL,,-,1,,,MS-22C01-G010,G-Switch,5,0.1189,0.59,C2837066,-,5,5,1500,14890,In Stock,,Slide Switch DPDT 50mA @ 12V Surface Mount Rectangular Columnar 7mm,Exact Matches,
+C19171390,YONGYUTAI(永裕泰),YLED0603R,,LED0603-FD,,-,1,,,YLED0603R,YONGYUTAI,100,0.0030,0.30,C19171390,-,100,100,4000,210000,In Stock,,Red LED Indication - Discrete 1.8V~2.4V 0603,Exact Matches,
+C105881,YAGEO(国巨),RC0603FR-07330RL,,R0603_NEW,,-,4,,,RC0603FR-07330RL,YAGEO,100,0.0007,0.07,C105881,-,100,100,5000,425000,In Stock,,100mW 330Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,
+C19171394,YONGYUTAI(永裕泰),YLED0603B,,LED0603-FD,,-,1,,,YLED0603B,YONGYUTAI,100,0.0032,0.32,C19171394,-,100,100,4000,2100,In Stock,,Blue LED Indication - Discrete 2.6V~3.2V 0603,Exact Matches,
+C2685545,S&S(海旭),SMD-8503-3627-16Ω,,BUZ-SMD_4P-L8.5-W8.5-BR-1,,-,1,,,SMD-8503-3627-16Ω,S&S,5,0.2544,1.27,C2685545,-,5,5,1000,4390,In Stock,,"Buzzers Passive (Externally Driven) Magnetic 3.6V 2.7kHz 80dB SMD,8.5x8.5mm",Exact Matches,
+C21714170,CBI(创基),2N2222AU,,SOT-89-3_L4.5-W2.4-P1.50-LS4.0-BR,,-,1,,,2N2222AU,CBI,20,0.0180,0.36,C21714170,-,20,20,1000,2920,In Stock,,Bipolar (BJT) Transistor NPN 40V 600mA 300MHz 0.5W Surface Mount SOT-89,Exact Matches,
+C14075,MICROCHIP(美国微芯),ATTINY13A-SSU,,SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,,-,1,,,ATTINY13A-SSU,MICROCHIP,1,0.8956,0.90,C14075,-,1,1,100,1489,In Stock,,AVR 8 Bit 20MHz 6 SOIC-8 Microcontrollers RoHS,Exact Matches,
+C22548,YAGEO(国巨),RC0603FR-071KL,,R0603_NEW,,-,3,,,RC0603FR-071KL,YAGEO,100,0.0007,0.07,C22548,-,100,100,5000,3669400,In Stock,,100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,
+C2889384,VO(翔胜),0603 ±1% 100Ω,,R0603_NEW,,-,4,,,0603 ±1% 100Ω,VO,0,-,-,C2889384,0603,100,100,5000,0,discountinued,,100mW 100Ω 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C2889384.html
