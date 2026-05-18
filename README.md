@@ -1,11 +1,13 @@
 <h1 align="center">LUMINO UNO</h1>
-<p align="center">A Dual Cored Micro-controller which can flash two different firmware in one board.</p>
+
+
+<p align="center" >A Dual Cored Micro-controller which can flash two different firmware in one board.</p>
 
 <p align="center">
   <img src="Images/PCB.png" width="500">
 </p>
 
-<img align="center" src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=electronicarts&logoColor=white">
+
 
 
 # Features
@@ -16,6 +18,9 @@
 - Built-in startup and feedback sound system
 - Type-C connectivity
 
+# Softwares
+<div> <a href="https://www.kicad.org/" style="margin-right: 15px; display: inline-block;"><img align="center" src="https://img.shields.io/badge/KiCad-2B5FC3?style=for-the-badge&logo=kicad&logoColor=white" style="border-radius: 30px;"></a> <a href="https://easyeda.com/" style="margin-right: 15px; display: inline-block;"><img align="center" src="https://img.shields.io/badge/EasyEDA-1765F3?style=for-the-badge&logo=circuitboard&logoColor=white" style="border-radius: 30px;"></a> <a href="https://www.blender.org/" style="display: inline-block;"><img align="center" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" style="border-radius: 30px;"></a>
+</div>
 
 
 
