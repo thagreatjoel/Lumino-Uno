@@ -50,5 +50,3 @@ You AVR is now coded, dont unplug it yet
 
 Your board is now complet
 
-# Schematics
-<img align="center" width="70%" alt="Schematic" src="https://github.com/user-attachments/assets/357adc15-a4e3-4114-9fdc-47ed1b1ec9c5" />
