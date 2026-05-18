@@ -44,6 +44,7 @@ Dont just over confuse it. its compilicated but not hard. its just a esp and atm
 - Upload code through USB C
 You AVR is now coded, dont unplug it yet
 
+
 **FLASH TO ESP**
 - Select Board ESP32 Dev Module
 - Flash Switch to right
