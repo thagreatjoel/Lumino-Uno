@@ -52,3 +52,8 @@ You AVR is now coded, dont unplug it yet
 - Press boot buttom while uploading
 Your board is now complet
 
+# Layers
+
+**Top Layer**<br><img width="500" alt="Screenshot 2026-05-18 131940" src="https://github.com/user-attachments/assets/c6f62902-ace6-4bc9-becb-ab590f8e9c4b" /></br>**Bottom Layer**<br><img width="500" alt="Screenshot 2026-05-18 131951" src="https://github.com/user-attachments/assets/0377162e-b6f9-4103-a1bf-f8467ecb7a60" />
+</br>
+
