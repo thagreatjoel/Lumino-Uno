@@ -37,11 +37,11 @@
 
 # How to Flash
 Dont just over confuse it. its compilicated but not hard. its just a esp and atmega.. 
+
 **FLASH TO ATMEGA**
 - Select board Arduino Uno
 - Flash Switch to left
 - Upload code through USB C
-
 You AVR is now coded, dont unplug it yet
 
 **FLASH TO ESP**
@@ -49,6 +49,5 @@ You AVR is now coded, dont unplug it yet
 - Flash Switch to right
 - Upload code
 - Press boot buttom while uploading
-
 Your board is now complet
 
