@@ -51,13 +51,9 @@ You AVR is now coded, dont unplug it yet
 - Upload code
 - Press boot buttom while uploading
 Your board is now complet
-
-# Layers
-
-**Top Layer**<br><img width="500" alt="Screenshot 2026-05-18 131940" src="https://github.com/user-attachments/assets/c6f62902-ace6-4bc9-becb-ab590f8e9c4b" /></br>**Bottom Layer**<br><img width="500" alt="Screenshot 2026-05-18 131951" src="https://github.com/user-attachments/assets/0377162e-b6f9-4103-a1bf-f8467ecb7a60" />
-</br>
-
-## Schematics
-<img width="2495" height="1767" alt="Schematics_page-0001" src="https://github.com/user-attachments/assets/0acc52a7-7140-40e4-8b23-4f99a753cbf0" />
-
+## #D model (camt uploade due to above 25mb)
 [3D Model](https://cdn.hackclub.com/019e3a1e-7bf6-7cc7-b24b-c62ca8a7e5d8/3d%20model.step)
+
+## zine page 
+<img width="1369" height="2099" alt="zine (1)_page-0001" src="https://github.com/user-attachments/assets/b651986b-b212-4b9c-91c4-cdc9ebc55547" />
+
