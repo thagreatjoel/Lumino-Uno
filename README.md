@@ -51,8 +51,10 @@ You AVR is now coded, dont unplug it yet
 - Upload code
 - Press boot buttom while uploading
 Your board is now complete
+<h1 align="center">Schematics</h1>
+<img align="center" width="1206" height="751" alt="image" src="https://github.com/user-attachments/assets/3ffb2d3d-7ccf-4bb0-b3bb-473f4ea32305" />
 
-# Layers
+<h1 align="center">Layers</h1>
 <div align="center">Top Layer<br><img width="500" alt="Screenshot 2026-05-18 131940" src="https://github.com/user-attachments/assets/c6f62902-ace6-4bc9-becb-ab590f8e9c4b" /></br>Bottom Layer<br><img width="500" alt="Screenshot 2026-05-18 131951" src="https://github.com/user-attachments/assets/0377162e-b6f9-4103-a1bf-f8467ecb7a60" /></div>
 </br>
 
