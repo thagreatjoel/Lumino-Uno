@@ -37,6 +37,34 @@ Nothing special, i was just making somthing with esp32 and arduino uno, i got fr
 | Power consumption       | ⚠️ Higher      | ✅ Low         | ⚠️ Higher        |
 | Best use case           | IoT, Web apps | Control systems | Full systems     |
 
+## Build & Assembly
+
+### Components
+- ESP32-WROOM-32  
+- ATmega128A  
+- CH340 USB to Serial  
+- AMS1117 3.3V Regulator  
+- Crystal Oscillator for the ATmega  
+- Capacitors for decoupling and filtering  
+- Resistors for pull-ups and voltage dividers  
+- 2-layer PCB  
+
+### Assembly Steps
+
+1. Start with the power section solder the regulator and capacitors.
+2. Mount the ESP32 module.
+3. Solder the ATmega128A and its crystal.
+4. Add the USB interface with the CH340 chip.
+5. Wire up UART between the ESP32 and ATmega.
+6. Drop in the headers and GPIO pins.
+7. Check everything for shorts and make sure you’ve got good connections.
+
+### Programming
+
+- Flash the ESP32 over USB.
+- Program the ATmega with an ISP programmer.
+- Double-check both MCUs flashed successfully.
+
 # How to Flash
 Dont just over confuse it. its compilicated but not hard. its just a esp and atmega.. 
 
